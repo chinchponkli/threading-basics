@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Vector;
 
+/** Read List, ArrayList and Vector Documentation */
 class Worker {
 
     private Random random = new Random();
